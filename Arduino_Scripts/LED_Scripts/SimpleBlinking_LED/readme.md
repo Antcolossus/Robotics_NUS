@@ -1,0 +1,1 @@
+Standard Blinking Light
